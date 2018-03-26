@@ -73,7 +73,7 @@ case 'cat':
                 bot.uploadFile({
                     to: channelID,
                     file: "f" + Math.floor((Math.random() * 10) + 1) + ".jpg"
-case 'cat':
+case 'happy':
                 bot.uploadFile({
                     to: channelID,
                     file: "g" + Math.floor((Math.random() * 10) + 1) + ".gif"
