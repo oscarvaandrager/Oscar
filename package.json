@@ -6,6 +6,9 @@
   "author": "YOUR-NAME-HERE",
   "dependencies": {
     "discord.io": "^2.5.3",
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6",
     "winston": "^2.4.1"
   }
 }
