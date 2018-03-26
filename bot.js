@@ -69,10 +69,14 @@ case 'Oscar':
                     file: "e" + Math.floor((Math.random() * 7) + 1) + ".jpg"
 });
             break;
-case 'enemy':
+case 'cat':
                 bot.uploadFile({
                     to: channelID,
                     file: "f" + Math.floor((Math.random() * 10) + 1) + ".jpg"
+case 'cat':
+                bot.uploadFile({
+                    to: channelID,
+                    file: "g" + Math.floor((Math.random() * 10) + 1) + ".gif"
                 });
             break;
             // Just add any case commands if you want to..
