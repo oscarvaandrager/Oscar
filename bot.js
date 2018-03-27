@@ -84,7 +84,13 @@ case 'happy':
 case 'monkey':
                 bot.uploadFile({
                     to: channelID,
-                    file: "g" + Math.floor((Math.random() * 10) + 1) + ".jpg"
+                    file: "h" + Math.floor((Math.random() * 10) + 1) + ".jpg"
+});
+            break;
+case 'MrMadaMada':
+                bot.uploadFile({
+                    to: channelID,
+                    file: "satan.jpg"
 });
             break;
             // Just add any case commands if you want to..
