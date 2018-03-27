@@ -91,4 +91,4 @@ case 'monkey':
          }
      }
 });
-music(bot);
+
