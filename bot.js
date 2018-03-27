@@ -81,6 +81,12 @@ case 'happy':
                     file: "g" + Math.floor((Math.random() * 10) + 1) + ".gif"
                 });
             break;
+case 'monkey':
+                bot.uploadFile({
+                    to: channelID,
+                    file: "g" + Math.floor((Math.random() * 10) + 1) + ".jpg"
+});
+            break;
             // Just add any case commands if you want to..
          }
      }
