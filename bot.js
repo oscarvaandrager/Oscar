@@ -90,7 +90,7 @@ case 'monkey':
 case 'MrMadaMada':
                 bot.uploadFile({
                     to: channelID,
-                    file: "satan.jpg"
+                    file: 'satan.jpg'
 });
             break;
             // Just add any case commands if you want to..
