@@ -85,4 +85,4 @@ case 'happy':
          }
      }
 });
-music(bot);
+music(
